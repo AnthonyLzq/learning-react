@@ -1,5 +1,9 @@
 # Learning React
 
+## Version 0.5.0
+- Implemented:
+  - Mapping components and props spread.
+
 ## Version 0.4.0
 - Implemented:
   - Props destructuring and children prop.
