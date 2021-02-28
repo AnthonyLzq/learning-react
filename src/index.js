@@ -21,7 +21,10 @@ const BookList = () => (
       author={firstBook.author}
       imgSrc={firstBook.imgSrc}
       title={firstBook.title}
-    />
+    >
+      {/* Everything inside a tag is a children and it is passed in the props object */}
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit dolorum numquam modi quaerat consequuntur atque vitae, ipsum ullam eius a.</p>
+    </Book>
     <Book
       author={secondBook.author}
       imgSrc={secondBook.imgSrc}
@@ -30,11 +33,12 @@ const BookList = () => (
   </section>
 )
 
-const Book = props => (
+const Book = ({ author, imgSrc, title, children }) => (
   <article className='book'>
-    <img src={props.imgSrc} alt='' />
-    <h1>{props.title}</h1>
-    <h4>{props.author}</h4>
+    <img src={imgSrc} alt='' />
+    <h1>{title}</h1>
+    <h4>{author}</h4>
+    {children}
   </article>
 )
 

@@ -1,5 +1,9 @@
 # Learning React
 
+## Version 0.4.0
+- Implemented:
+  - Props destructuring and children prop.
+
 ## Version 0.3.0
 - Implemented:
   - Book list using different values with props.
