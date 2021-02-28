@@ -1,5 +1,9 @@
 # Learning React
 
+## Version 0.6.0
+- Implemented:
+  - Event handlers.
+
 ## Version 0.5.0
 - Implemented:
   - Mapping components and props spread.
