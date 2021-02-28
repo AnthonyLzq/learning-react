@@ -1,4 +1,9 @@
 # Learning React
+
+## Version 0.3.0
+- Implemented:
+  - Book list using different values with props.
+
 ## Version 0.2.0
 - Implemented:
   - Book list using grid layout and 3 components.
