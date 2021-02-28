@@ -1,5 +1,9 @@
 # Learning React
 
+## Version 0.7.0
+- Implemented:
+  - Importing and exporting components.
+
 ## Version 0.6.0
 - Implemented:
   - Event handlers.
