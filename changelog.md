@@ -1,4 +1,7 @@
 # Learning React
+## Version 0.2.0
+- Implemented:
+  - Book list using grid layout and 3 components.
 
 ## Version 0.1.0
 - Implemented:
