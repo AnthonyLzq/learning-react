@@ -1,5 +1,9 @@
 # Learning React
 
+## Version 0.4.0
+- Implemented:
+  - Basic example of useState.
+
 ## Version 0.3.0
 - Implemented:
   - Error trying to change something in the page without using useState.
