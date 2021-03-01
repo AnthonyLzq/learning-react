@@ -1,5 +1,9 @@
 # Learning React
 
+## Version 0.8.0
+- Implemented:
+  - useState with functional update.
+
 ## Version 0.7.0
 - Implemented:
   - useState with a counter.
