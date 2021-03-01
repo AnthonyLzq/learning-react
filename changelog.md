@@ -1,5 +1,9 @@
 # Learning React
 
+## Version 0.3.0
+- Implemented:
+  - Error trying to change something in the page without using useState.
+
 ## Version 0.2.0
 - Implemented:
   - Tutorial setup.

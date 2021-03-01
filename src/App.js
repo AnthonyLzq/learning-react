@@ -1,8 +1,9 @@
 import React from 'react'
+import Setup from './tutorial/01-useState/1-error-example'
 
 const App = () => (
   <div className='container'>
-    <h2>Advanced tutorial</h2>
+    <Setup />
   </div>
 )
 
