@@ -1,5 +1,9 @@
 # Learning React
 
+## Version 0.6.0
+- Implemented:
+  - useState with an object.
+
 ## Version 0.5.0
 - Implemented:
   - useState with an array.
