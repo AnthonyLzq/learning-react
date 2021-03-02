@@ -1,5 +1,5 @@
 import React from 'react'
-import Setup from './tutorial/02-useEffect/3-useEffect-fetch-data'
+import Setup from './tutorial/03-conditional-rendering/1-multiple-returns'
 
 const App = () => (
   <div className='container'>

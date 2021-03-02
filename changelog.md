@@ -1,5 +1,9 @@
 # Learning React
 
+## Version 0.12.0
+- Implemented:
+  - Multiple returns.
+
 ## Version 0.11.0
 - Implemented:
   - useEffect with fetch.
