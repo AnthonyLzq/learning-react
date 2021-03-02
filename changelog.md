@@ -1,5 +1,9 @@
 # Learning React
 
+## Version 0.10.0
+- Implemented:
+  - useEffect clean up function.
+
 ## Version 0.9.0
 - Implemented:
   - useEffect basic example.
