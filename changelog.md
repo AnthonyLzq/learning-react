@@ -1,5 +1,9 @@
 # Learning React
 
+## Version 0.11.0
+- Implemented:
+  - useEffect with fetch.
+
 ## Version 0.10.0
 - Implemented:
   - useEffect clean up function.
