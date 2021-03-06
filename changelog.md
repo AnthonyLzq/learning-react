@@ -1,5 +1,9 @@
 # Learning React
 
+## Version 0.13.0
+- Implemented:
+  - Multiple returns with ternary operator.
+
 ## Version 0.12.0
 - Implemented:
   - Multiple returns.

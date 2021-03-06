@@ -32,24 +32,18 @@ const MultipleReturns = () => {
       })
   }, [])
 
-  if (isLoading)
-    return (
-      <div>
-        <h1>Loading...</h1>
-      </div>
-    )
-
-  if (isError)
-    return (
-      <div>
-        <h1>Error...</h1>
-        <h2>{errorMessage}</h2>
-      </div>
-    )
-
   return (
     <div>
-      <h1>{user}</h1>
+      {
+        isLoading ? (
+          <h1>Loading...</h1>
+        ) : isError ? (
+          <React.Fragment>
+            <h1>Error...</h1>
+            <h2>{errorMessage}</h2>
+          </React.Fragment>
+        ) : <h1>{user}</h1>
+      }
     </div>
   )
 }
