@@ -1,5 +1,5 @@
 import React from 'react'
-import Setup from './tutorial/03-conditional-rendering/2-short-circuit'
+import Setup from './tutorial/03-conditional-rendering/3-show-hide'
 
 const App = () => (
   <div className='container'>

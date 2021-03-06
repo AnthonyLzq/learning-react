@@ -1,5 +1,9 @@
 # Learning React
 
+## Version 0.15.0
+- Implemented:
+  - Toggle components.
+
 ## Version 0.14.0
 - Implemented:
   - Short circuit evaluation.
