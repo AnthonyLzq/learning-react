@@ -1,5 +1,9 @@
 # Learning React
 
+## Version 0.16.0
+- Implemented:
+  - Forms.
+
 ## Version 0.15.0
 - Implemented:
   - Toggle components.

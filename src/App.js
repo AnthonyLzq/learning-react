@@ -1,5 +1,5 @@
 import React from 'react'
-import Setup from './tutorial/03-conditional-rendering/3-show-hide'
+import Setup from './tutorial/04-forms/2-multiple-inputs'
 
 const App = () => (
   <div className='container'>
