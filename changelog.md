@@ -1,5 +1,9 @@
 # Learning React
 
+## Version 0.18.0
+- Implemented:
+  - useReducer.
+
 ## Version 0.17.0
 - Implemented:
   - useRef.
