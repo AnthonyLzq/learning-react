@@ -1,5 +1,9 @@
 # Learning React
 
+## Version 0.19.0
+- Implemented:
+  - Prop drilling.
+
 ## Version 0.18.0
 - Implemented:
   - useReducer.
