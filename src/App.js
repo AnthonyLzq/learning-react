@@ -1,5 +1,5 @@
 import React from 'react'
-import Setup from './tutorial/07-prop-drilling/1-prop-drilling'
+import Setup from './tutorial/08-useContext/1-context-api'
 
 const App = () => (
   <div className='container'>
