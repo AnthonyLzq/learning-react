@@ -1,5 +1,5 @@
 import React from 'react'
-import Setup from './tutorial/08-useContext/1-context-api'
+import Setup from './tutorial/09-custom-hooks/1-fetch-example'
 
 const App = () => (
   <div className='container'>

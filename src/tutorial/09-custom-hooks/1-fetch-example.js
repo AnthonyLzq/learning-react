@@ -1,9 +1,18 @@
 import React from 'react'
+import useFetch from './2-useFetch'
 
-const FetchExample = () => {
+const URL = 'https://course-api.com/javascript-store-products'
+
+const Example = () => {
+  const { loading, products } = useFetch(URL)
+
+  console.log(products)
+
   return (
-    <h2>fetch example</h2>
+    <div>
+      <h2>{loading ? 'loading...' : 'data'}</h2>
+    </div>
   )
 }
 
-export default FetchExample
+export default Example
