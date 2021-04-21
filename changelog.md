@@ -1,5 +1,11 @@
 # Learning React
 
+## Version 1.0.0
+- Implemented:
+  - memo.
+  - useMemo.
+  - useCallback.
+
 ## Version 0.23.0
 - Implemented:
   - React router dom.
