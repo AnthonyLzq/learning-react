@@ -1,5 +1,9 @@
 # Learning React
 
+## Version 0.22.0
+- Implemented:
+  - PropTypes.
+
 ## Version 0.21.0
 - Implemented:
   - Custom hooks.
